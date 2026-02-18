@@ -1,0 +1,1 @@
+# Python-program-to-check-whether-the-integer-is-a-multiple-of-5
